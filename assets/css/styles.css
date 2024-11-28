@@ -1103,7 +1103,7 @@ background-color: var(--first-color);
   }
   .home__img{
     width: 700px;
-    transform: translateX(2rem);
+    transform: translateY(2rem);
   }
   .home__triangle{
     height: 995px;
