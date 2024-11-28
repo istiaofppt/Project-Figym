@@ -1,2 +1,2 @@
-Click here 👇 :
-   https://github.com/istiaofppt/Project-Figym.git
+Click here 👇 : </br>
+ https://istiaofppt.github.io/Project-Figym/
